@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Nikhil
+- 🧋 I convert tea to typescript!
 - 👀 I’m interested in Full Stack Development.
-- 💞️ I’m looking to collaborate with fellow developers 
+- 💞️ I’m looking to collaborate with fellow developers
+- 
 - 📫 How to reach me [EMail]=bhattnik442@gmail.com [Twitter]=https://twitter.com/Be_Nikkk 
 - I also write on https://blognik.hashnode.dev/. 
 <!---
