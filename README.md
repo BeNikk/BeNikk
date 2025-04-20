@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nikhil
-- 🧋 I convert tea to typescript!
 - 👀 I’m interested in Full Stack Development.
 - 💞️ I’m looking to collaborate with fellow developers
 - 
