@@ -21,9 +21,9 @@ Writing code, building, and learning continuously.
 
 ### ✦ Get in Touch
 
--  [bhattnik442@gmail.com](mailto:bhattnik442@gmail.com)  
--  [@Be_Nikkk](https://twitter.com/Be_Nikkk)  
-- ✍ [blognik.hashnode.dev](https://blognik.hashnode.dev)
+- Mail | [bhattnik442@gmail.com](mailto:bhattnik442@gmail.com)  
+- X |  [@Be_Nikkk](https://twitter.com/Be_Nikkk)  
+- Blogs | [blognik.hashnode.dev](https://blognik.hashnode.dev)
 
 ---
 
