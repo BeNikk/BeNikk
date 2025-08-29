@@ -1,5 +1,5 @@
 <h1 align="center">Nikhil Bhatt</h1>
-<p align="center">Crafting Code</p>
+<p align="center">Writing Code</p>
 
 ---
 
