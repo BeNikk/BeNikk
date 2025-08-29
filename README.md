@@ -3,7 +3,7 @@
 
 ---
 
-### ✦ Who I Am
+###  Who I Am
 
 A tinkerer with a love for simplicity. 
 Currently contributing to **Google Summer of Code 2025**.  
@@ -11,7 +11,7 @@ Writing code, building, and learning continuously.
 
 ---
 
-### ✦ Technologies I Work With
+###  Technologies I Work With
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,mysql,tailwind" alt="Tech Stack" />
@@ -19,7 +19,7 @@ Writing code, building, and learning continuously.
 
 ---
 
-### ✦ Get in Touch
+###  Get in Touch
 
 - Mail | [bhattnik442@gmail.com](mailto:bhattnik442@gmail.com)  
 - X |  [@Be_Nikkk](https://twitter.com/Be_Nikkk)  
